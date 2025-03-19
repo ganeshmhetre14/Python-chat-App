@@ -1,0 +1,4 @@
+# Main dependencies
+#tkinter>=8.5  # Usually included with Python installation
+socket  # Built-in module
+threading  # Built-in module
