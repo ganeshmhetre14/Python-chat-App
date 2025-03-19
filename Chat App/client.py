@@ -244,6 +244,3 @@ class ChatClient:
 if __name__ == "__main__":
     client = ChatClient()
     client.start()
-
-# --- requirements.txt ---
-# No external dependencies required - the chat app uses only Python standard library
