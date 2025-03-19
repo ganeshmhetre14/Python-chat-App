@@ -1,10 +1,3 @@
-# Chat Application Project Structure
-#
-# This project contains:
-# 1. server.py - The chat server that handles client connections and broadcasts messages
-# 2. client.py - The client application with an attractive GUI using tkinter
-# 3. requirements.txt - Dependencies for the project
-
 # --- server.py ---
 import socket
 import threading
